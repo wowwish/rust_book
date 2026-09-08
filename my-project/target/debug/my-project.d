@@ -1,0 +1,1 @@
+/home/kmtw249/rust_book/my-project/target/debug/my-project: /home/kmtw249/rust_book/my-project/src/garden/vegetables.rs /home/kmtw249/rust_book/my-project/src/garden.rs /home/kmtw249/rust_book/my-project/src/main.rs
